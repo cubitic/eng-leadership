@@ -3,7 +3,7 @@
 Resources: 
 - [Learning Agile](https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/1449331920) book
 
-## What is Agile?
+# What is Agile?
 
 A set of methodlogies that help software teams be more effective and efficient.
 
@@ -43,7 +43,7 @@ but deep change needs to be based on the principles.
 Some notes on each principle:
 
 
-### Individuals and interactions over processes and tools
+## Individuals and interactions over processes and tools
 
 Focus on individuals on the team + how they communicate, this is more important than process and specific tools.
 
@@ -53,7 +53,8 @@ Each team is different + will require a different approach, different processes.
 
 Daily standups + retrospectives are based on this principle: this gives everyone a chance to talk about what is and isn't working, adapting the process to the individuals and figuring out how we have beeter interactions.
 
-### Working software over comprehensive documentation
+
+## Working software over comprehensive documentation
 
 Delivering software that does what users need is more important than documentation that describes it.
 
@@ -61,7 +62,8 @@ Working software = software that delivers value e.g. makes more additional reven
 
 Test driven development is based on this principle: the tests tell us that the software works as expected and also serves as documentation of what it does, that lives in the same codebase
 
-### Customer collaboration over contract negotiation
+
+## Customer collaboration over contract negotiation
 
 This sounds like it only applies to customer-facing interaction but also describes interactions between teams.
 
@@ -69,7 +71,8 @@ Rather than define tight SLAs and specifications that are then handed to an engi
 
 e.g. product managers should be part of the team and involved in adapting to changes
 
-### Responding to change over following a plan
+
+## Responding to change over following a plan
 
 Plans become inaccurate and inappropriate as projects progress and situations change.
 
@@ -78,7 +81,8 @@ Rather than follow a pre-written plan blindly, the team should adapt the work to
 Task boards that are owned by the full team, to which any team member can add or edit items (e.g. JIRA) are based on this principle
 
 
-## Why do we use agile?
+
+# Why do we use agile?
 
 Promised benefits of agile:
 

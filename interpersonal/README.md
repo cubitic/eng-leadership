@@ -15,7 +15,7 @@ Then ask them to give you 2 ideas for how you can improve at this. Afterwards it
 
 ## Difficult Conversations
 
-Gaving honest + sometimes hard conversations is an important part of leadership. At a certain point, nobody is going to do this for you, luckily it is a skill you can practice
+Having honest + sometimes hard conversations is an important part of leadership. At a certain point, nobody is going to do this for you, luckily it is a skill you can practice
 
 [Diffcult Conversations](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) is the book I have found most useful in developing these skills.
 
