@@ -1,6 +1,7 @@
 # Agile
 
-Resources: Learning Agile book
+Resources: 
+- [Learning Agile](https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/1449331920) book
 
 ## What is Agile?
 
@@ -23,8 +24,11 @@ The Agile Manifesto describes this philosophy:
 >Through this work we have come to value:
 >
 >Individuals and interactions over processes and tools
+>
 >Working software over comprehensive documentation
+>
 >Customer collaboration over contract negotiation
+>
 >Responding to change over following a plan
 >
 >That is, while there is value in the items on
