@@ -6,6 +6,7 @@ I think this can mean different things depending on stage of career + responsibi
 
 
 - **[MANAGING PEOPLE](people)** 
+    - TODO: put these bullets on responsibilities under each page
     - making indivudals more effective
     - understanding what they need to be motivated as individuals
     - providing feedback, guidance, career growth.

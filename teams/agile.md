@@ -34,7 +34,7 @@ Popular agile methodologies are:
 
 # 4 Values of Agile
 
-The Agile Manifesto describes 4 key values that describe the agile mindset:
+The Agile Manifesto lists 4 key values that describe the agile mindset:
 
 - Individuals and interactions over processes and tools
 - Working software over comprehensive documentation
