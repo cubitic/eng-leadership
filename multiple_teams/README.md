@@ -1,7 +1,7 @@
 (WIP)
 
 ## Measuring Team Health
-- scale book. p115 managers path. 
+- accelerate book. p115 managers path. 
 - freq of deploys, freq of incidents
 
 

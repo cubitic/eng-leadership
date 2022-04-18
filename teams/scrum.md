@@ -49,12 +49,17 @@ At the start of each iteration, the team does sprint planning together. Here the
 
 There is a collective commitment from the team to finish the work planned for the sprint.
 
+**Tips for running an effective sprint**
+
+1. **Start from the backlog.** Product Owner should be working with the team to prioritize the backlog. They should understand and communicate what is most valuable in the backlog. During planning, try to add those tasks first.
+2. **Be Realistic.** Developers tend to underestimate complexity, so don't cram things into the sprint. The Scrum Master should try to help determine what is possible.
+3. **Change the plan if you need to.** Daily standups are there to adapt what we are doing in order to complete the sprint. If it becomes clear that some things won't be finished, then move work out of the sprint and back to the backlog (start with lowest value tasks). The Scrum Master should make sure everyone understands the change, the Product Owner can communicate to other stakeholders.
+4. **Get the whole team talking about value.** The whole team should be encouraged to discuss the value of each item in the sprint. This promotes understanding of the value of what the team is working on.
+
 ### Daily Scrum / Standup
 Each day the full team (including Product Owner) meet face-to-face for a daily scrum (I've mostly seen this called "a standup").
 
 **The purpose of this meeting is not to get status updates from the whole team!**
-
-(WIP ADD TO THIS WITH NEXT CHAPTER)
 
 The purpose of this meeting is for the full team to understand the work that is being done, and adapt the working as needed to complete the sprint.
 
@@ -66,7 +71,22 @@ e.g. the goal is to uncover things like:
 - an engineer has identified an ambiguous requirement
     - => the team talk together to decide how to implement the feature
 
+To uncover these things + start these discussions, typically each person answers 3 questions:
+- what did I do yesterday?
+- what will I do today?
+- is anything blocking me?
+
 In general, the standup should be timeboxed to 15 min, and any discussion that goes more than a minute or 2 should be tabled + the team members that need to can meet right after to have the discussion. This keeps the daily meeting from eating up too much of the team's time.
+
+**Tips for running a better standup**
+
+1. **Take turns going first.** This de-emphasises 1 person being the *owner* of the meeting. Gets the team out of status update mindset and encourages everyone to feel like they own the meeting.
+2. **Don't treat it like a ritual.** It's easy to fall into patterns and switch off your brain. Stay attentive + be on the lookout for issues that need to be solved to complete the sprint.
+3. **Everyone participates.** Including the Product Owner + Scrum Master who should also answer the prompts. The meeting is not meant as a status update from team members, but for the full team to understand and inspect the work being done (including what the Product Owner is doing!).
+4. **Inspect every task.** Don't just look at what is being worked on, also consider tasks in the *To Do* column and look for potential roadblocks there.
+5. **Change the plan if you need to.** Use this meeting to adapt. This could mean adapting the approach to completing a piece of work or who will work on it. It could also mean removing work that is no longer needed or that you realize isn't going to be completed in time.
+
+
 
 ### Demos
 
@@ -101,7 +121,7 @@ and then the team tries to dig into the answers and come up with improvements.
 
 The key idea behind Scrum is that *the team collectively owns the project*. The idea of having the Scrum meetings is that the full team participates in planning and adapting to change. This is very different to traditional teams where 1 person typically owns the plan.
 
-It can be hard sometimes for a team to take on this mindset, both team members and managers can want to revert to either:
+It can be hard sometimes for a team to take on this mindset, both team members and managers want to revert to either:
 - team members just write code, if things go wrong, then the plan was at fault
 - managers want to be gatekeepers and feel important by owning a plan
 
@@ -111,11 +131,17 @@ This means, simply, that rather than working towards their own goals + covering 
 
 If we can get the team into this state then everyone begins to contribute ideas + is invested in reacting to changes and fixing problems.
 
-The key to encouraging this mindset is to give everyone on the team the power to make decisions. e.g.
-- by planning together, everyone owns the plan
-    - a team member should be encouraged to push back when a task is too long or badly defined
-- in a retro, everyone can suggest improvements
-    - these should always be taken seriously and adopted if the team agrees
+The key to encouraging this mindset is to do 2 things:
+
+1. **give everyone on the team the power to make decisions.** e.g.
+    - by planning together, everyone owns the plan
+        - a team member should be encouraged to push back when a task is too long or badly defined
+    - in a retro, everyone can suggest improvements
+        - these should always be taken seriously and adopted if the team agrees
+2. **help the team understand the value of the software they are producing.**
+    - this is the key for motivation, people want to understand the impact their work will have and see that impact play out.
+    - the Product Owner should be able to bring this understanding
+    - this is not a one-off explanation, it is a continuous process of understanding changing needs + how the team is meeting them
 
 The benefits of a commited team are huge:
 1. **Happiness** - a commited team is invested and it feels good to own something

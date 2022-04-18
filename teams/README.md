@@ -8,7 +8,12 @@ This is my preferred approach to software development. This is how modern softwa
 
 I've organised my notes on agile [here](agile.md)
 
+and have some separate notes on Scrum (a specific approach to agile) [here](scrum.md)
+
 ## OKRs
 (WIP)
 - what are these?
 - why do we use them?
+
+## Manager READMEs
+https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
