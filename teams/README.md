@@ -10,10 +10,9 @@ I've organised my notes on agile [here](agile.md)
 
 and have some separate notes on Scrum (a specific approach to agile) [here](scrum.md)
 
-## OKRs
+## Setting Goals
 (WIP)
-- what are these?
-- why do we use them?
 
 ## Manager READMEs
+(WIP)
 https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
